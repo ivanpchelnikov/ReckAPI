@@ -2,19 +2,24 @@
 
 Setting:
 
-Clone:
-	-	git clone git@github.com:ivanpchelnikov/ReckAPI.git
+Clone:	
+			
+			- git clone git@github.com:ivanpchelnikov/ReckAPI.git
 Install: 
-	- cd ReckAPI
-	- npm install
+	
+			- cd ReckAPI
+			- npm install
 
 Run:
-	- npm test
-	- npm start
+			
+			- npm test
+			- npm start
 
 Appliction:
 
 First: 
-	- http://localhost:9999
+			
+			- http://localhost:9999
 Second:
-	- http://localhost:9999/texttosearch
+			
+			- http://localhost:9999/texttosearch
